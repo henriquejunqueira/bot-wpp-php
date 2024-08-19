@@ -1,0 +1,12 @@
+[13600:10792:0816/165501.168:WARNING:chrome_main_delegate.cc(744)] This is Chrome version 127.0.6533.120 (not a warning)
+[13600:10792:0816/165501.233:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[13600:10792:0816/165501.251:WARNING:browser_management_service.cc(128)] EnterpriseLogoUrl fetch failed with error code -1 and MIME type 
+[13600:10792:0816/165502.004:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'battery'.", source:  (0)
+[13600:10792:0816/165502.004:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'usb-unrestricted'.", source:  (0)
+[13600:10792:0816/165502.067:INFO:CONSOLE(150)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v3/y-/r/HTJC8EuHI-g.js?_nc_x=Ij3Wp8lg5Kz (150)
+[13600:10792:0816/165507.457:INFO:CONSOLE(150)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v3/y-/r/HTJC8EuHI-g.js?_nc_x=Ij3Wp8lg5Kz (150)
+[13600:10792:0816/165509.578:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:3844
+[13500:4192:0816/165509.753:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
+[13500:14316:0816/165509.761:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
+[13500:14316:0816/165509.761:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
+[13600:10792:0816/165509.816:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

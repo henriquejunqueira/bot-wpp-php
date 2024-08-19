@@ -1,0 +1,9 @@
+2024/08/19-09:23:54.660 25ec Reusing MANIFEST C:\xampp\htdocs\BOT\python\profile\zap\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/19-09:23:54.660 25ec Recovering log #76
+2024/08/19-09:23:54.661 25ec Reusing old log C:\xampp\htdocs\BOT\python\profile\zap\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000076.log 
+2024/08/19-09:23:54.662 25ec Delete type=2 #45
+2024/08/19-09:23:54.662 25ec Delete type=2 #75
+2024/08/19-09:23:55.836 25ec Level-0 table #82: started
+2024/08/19-09:23:55.842 25ec Level-0 table #82: 18592 bytes OK
+2024/08/19-09:23:55.846 25ec Delete type=0 #76
+2024/08/19-09:23:55.846 25ec Manual compaction at level-0 from '\x00 \x00\x00\x00' @ 72057594037927935 : 1 .. '\x00!\x00\x00\x00' @ 0 : 0; will stop at (end)
